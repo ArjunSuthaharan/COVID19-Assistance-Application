@@ -1,4 +1,4 @@
-# COVID19-Assistance-Application
+# COVID19-Assistance-Application Prototype
 
 COVID-19 Assitance Application Prototype
 
