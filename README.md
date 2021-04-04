@@ -13,7 +13,9 @@ Top Functionalities
 6.	Provide users guides on how to prevent the spread of COVID-19 and avoid contracting COVID-19 in public.
 
 First Design (Assignment 1) : https://www.figma.com/file/KN0kQZaRaj3vc4bK2LlPeJ/Assignment-1---Arjun-Suthaharan
+
 Second Design (Assignment 2) : https://www.figma.com/file/0GCw0bwI7WCPFGhgg0qFEu/Assignment-2---Arjun-Suthaharan
+
 Final Design (Assignment 3) : https://www.figma.com/file/GZHWn62EJJSfueqGebPbwB/FINAL-COVID-19-Awareness-Application---Arjun-Suthaharan
 
 
